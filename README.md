@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard (Power BI)
 
-![Dashboard Page 1](/images/Page.png)
+![Dashboard Page 1](/images/Page1.png)
 
 🔗 **Interactive Dashboard (Power BI Service):**  
 [View the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiODlhYzE0MmMtMzE5My00NjEwLWExMDctYmVjOTg0YjlhOTA0IiwidCI6ImU1OTBiOTRiLTlmMTYtNGQ2NC05ZTJlLTQyN2NjMzE3NjY0MiJ9)
